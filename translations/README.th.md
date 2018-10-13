@@ -120,7 +120,7 @@ git push origin <ชื่อ branch ของคุณ>
 |[GitHub Desktop](../github-desktop-tutorial.md)|[Visual Studio 2017](../github-windows-vs2017-tutorial.md)|[GitKraken](../gitkraken-tutorial.md)|
 
 
-## โปรโมทตัวเองสักหน่อย 
+## โปรโมทตัวเองสักหน่อย     
 
 หากคุณชอบโครงการนี้ สามารถกดดาวไว้บน [GitHub](https://github.com/Roshanjossey/first-contributions) ได้ หรือหากรู้สึกดีเป็นพิเศษสามารถติดตาม [Roshan](https://roshanjossey.github.io/) บน
 [Twitter](https://twitter.com/sudo__bangbang) และ
